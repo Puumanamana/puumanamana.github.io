@@ -2,7 +2,7 @@
 layout: essay
 type: essay
 title: Evidence of Core Competency
-date: 2020-12
+date: 2020-12-01
 labels:
   - PhD Portfolio
 ---
