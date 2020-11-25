@@ -1,6 +1,6 @@
 {
     "basics": {
-	"name": "Cedric Arisdakessian",
+	"name": "Cédric Arisdakessian",
 	"label": "Graduate Student",
     "picture": "https://puumanamana.github.io/images/profile.jpg",
     "email": "carisdak@hawaii.edu",
@@ -77,7 +77,7 @@
 	    "courses": []
 	},
 	{
-	    "institution": "Universite Lyon I",
+	    "institution": "Université Claude Bernard Lyon 1",
 	    "area": "Bioinformatics",
 	    "studyType": "MS.c",
 	    "startDate": "2015",
@@ -86,7 +86,7 @@
 	    "courses": []
 	},                  
 	{
-	    "institution": "Ecole Centrale Lyon",
+	    "institution": "École Centrale de Lyon",
 	    "area": "Engineering",
 	    "studyType": "MS.c",
 	    "startDate": "2013",
