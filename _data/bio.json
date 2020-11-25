@@ -1,160 +1,156 @@
 {
-  "basics": {
-    "name": "Cedric Arisdakessian",
-    "label": "Graduate Student",
+    "basics": {
+	"name": "Cedric Arisdakessian",
+	"label": "Graduate Student",
     "picture": "https://puumanamana.github.io/images/profile.jpg",
     "email": "carisdak@hawaii.edu",
     "phone": ,
     "website": "https://puumanamana.github.io",
-    "summary": "I am currently pursuing a Ph.D. in computer science in the University of Hawai'i at Manoa.",
+	"summary": "I am currently pursuing a Ph.D. in computer science in the University of Hawai'i at Manoa.",
     "location": {
-      "address": "",
-      "postalCode": "96822",
-      "city": "Honolulu",
-      "countryCode": "USA",
-      "region": "Hawaii"
+	"address": "",
+	"postalCode": "96822",
+	"city": "Honolulu",
+	"countryCode": "USA",
+	"region": "Hawaii"
     },
     "profiles": [
       {
-        "network": "github",
-        "username": "Puumanamana",
-        "url": "http://github.com/puumanamana"
+          "network": "github",
+          "username": "Puumanamana",
+          "url": "http://github.com/puumanamana"
       },
     ]
-  },
-  "interests": [
-    {
-      "name": "bioinformatics",
-      "keywords": [
-      ]
     },
-    {
-      "name": "data science",
-      "keywords": [
-      ]
-    },
-    {
-      "name": "metagenomics",
-      "keywords": [
-      ]
-    },      
-    {
-      "name": "artificial intelligence",
-      "keywords": [
-      ]
-    }
-  ],
-  "skills": [
-    {
-      "name": "Languages and Frameworks",
-      "level": "",
-      "keywords": [
-        "Python",
-        "R",
-        "Nextflow",
-        "Rust"
-      ]
-    },
-    {
-      "name": "Toolsets/OS",
-      "level": "",
-      "keywords": [
-        "MacOS",
-        "Ubuntu",
-        "Git/GitHub"
-      ]
-    }
-  ],
-  "education": [
-    {
-      "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science",
-      "studyType": "Ph.D.",
-      "startDate": "2018-01",
-      "endDate": "Present",
-      "gpa": "3.97",
-      "courses": [
-      ]
-    },
-    {
-      "institution": "Ecole Centrale Lyon",
-      "area": "Engineering",
-      "studyType": "MS.c",
-      "startDate": "2013",
-      "endDate": "2016",
-      "gpa":,
-      "courses": [
-      ]
-    },
-    {
-      "institution": "Universite Lyon I",
-      "area": "Bioinformatics",
-      "studyType": "MS.c",
-      "startDate": "2015",
-      "endDate": "2016",
-      "gpa":,
-      "courses": [
-      ]
-    }            
-  ],
-  "work": [
-    {
-      "company": "Sanofi Pasteur",
-      "position": "Bioinformatics intern",
-      "website": "http://www.sanofipasteur.com/",
-      "startDate": "2016-04",
-      "endDate": "2016-09",
-      "summary": "Meta-analysis of gene expression data for biomarker discovery",
-      "highlights": [
-      ]
-    },
-    {
-      "company": "Institute for Advance Biosciences",
-      "position": "Research Engineer",
-      "website": "https://iab.univ-grenoble-alpes.fr/",
-      "startDate": "2017-04",
-      "endDate": "2017-08",
-      "summary": "Analysis of ChIP-seq data in lymphoblastic and mantle cell lymphoma cell lines",
-      "highlights": [
-      ]
-    },
-    {
-      "company": "University of Hawai'i cancer center",
-      "position": "Graduate Research Assistant",
-      "website": "https://www.uhcancercenter.org/",
-      "startDate": "2017-08",
-      "endDate": "2018-05",
-      "summary": "Imputation of single cell RNA seq data using deep learning methods.",
-      "highlights": [
-      ]
-    },
-    {
-      "company": "University of Hawai'i at Manoa",
-      "position": "Graduate Research Assistant",
-      "website": "https://datascience.hawaii.edu/",
-      "startDate": "2018-05",
-      "endDate": "2019-05",
-      "summary": "Development of computational pipelines for the analysis of microbiome marker data.",
-      "highlights": [
-      ]
-    },
-    {
-      "company": "University of Hawai'i at Manoa",
-      "position": "Graduate Research Assistant",
-      "website": "https://www.labhuiofrank.com/",
-      "startDate": "2019-05",
-      "endDate": "Present",
-      "summary": "Statistical analysis of bacterial metagenomes",
-      "highlights": [
-      ]
-    }      
-  ],
-  "volunteer":,
-  "awards":,
-  "references": [
-    {
-      "name": "Available upon request",
-      "reference": ""
-    }
-  ]
+    "interests": [
+	{
+	    "name": "Bioinformatics",
+	    "keywords": []
+	},
+	{
+	    "name": "Data Science",
+	    "keywords": []
+	},
+	{
+	    "name": "Metagenomics",
+	    "keywords": []
+	},      
+	{
+	    "name": "Artificial Intelligence",
+	    "keywords": []
+	},
+	{
+	    "name": "Bayesian statistics",
+	    "keywords": []
+	}	
+    ],
+    "skills": [
+	{
+	    "name": "Languages and Frameworks",
+	    "level": "",
+	    "keywords": [
+		"Python",
+		"R",
+		"Nextflow",
+		"Rust",
+		"C++"
+	    ]
+	},
+	{
+	    "name": "Toolsets/OS",
+	    "level": "",
+	    "keywords": [
+		"MacOS",
+		"Ubuntu",
+		"Git/GitHub"
+	    ]
+	}
+    ],
+    "education": [
+	{
+	    "institution": "University of Hawaii, Honolulu, HI",
+	    "area": "Computer Science",
+	    "studyType": "Ph.D.",
+	    "startDate": "2018-01",
+	    "endDate": "Present",
+	    "gpa": "3.97",
+	    "courses": []
+	},
+	{
+	    "institution": "Universite Lyon I",
+	    "area": "Bioinformatics",
+	    "studyType": "MS.c",
+	    "startDate": "2015",
+	    "endDate": "2016",
+	    "gpa":,
+	    "courses": []
+	},                  
+	{
+	    "institution": "Ecole Centrale Lyon",
+	    "area": "Engineering",
+	    "studyType": "MS.c",
+	    "startDate": "2013",
+	    "endDate": "2016",
+	    "gpa":,
+	    "courses": []
+	}
+    ],
+    "work": [
+	{
+	    "company": "University of Hawai'i at Manoa",
+	    "position": "Graduate Research Assistant",
+	    "website": "https://www.labhuiofrank.com/",
+	    "startDate": "2019-05",
+	    "endDate": "Present",
+	    "summary": "Statistical analysis of bacterial metagenomes",
+	    "highlights": []
+	},	
+	{
+	    "company": "University of Hawai'i at Manoa",
+	    "position": "Graduate Research Assistant",
+	    "website": "https://datascience.hawaii.edu/",
+	    "startDate": "2018-05",
+	    "endDate": "2019-05",
+	    "summary": "Collaboration with data science projects with UH Manoa collaborators",
+	    "highlights": [
+		"Development of data science teaching modules",
+		"Development of computational pipelines for the analysis of microbiome marker data"
+	    ]
+	},
+	{
+	    "company": "University of Hawai'i cancer center",
+	    "position": "Graduate Research Assistant",
+	    "website": "https://www.uhcancercenter.org/",
+	    "startDate": "2017-08",
+	    "endDate": "2018-05",
+	    "summary": "Imputation of single cell RNA seq data using deep learning methods.",
+	    "highlights": []
+	},
+	{
+	    "company": "Institute for Advance Biosciences",
+	    "position": "Research Engineer",
+	    "website": "https://iab.univ-grenoble-alpes.fr/",
+	    "startDate": "2017-04",
+	    "endDate": "2017-08",
+	    "summary": "Analysis of ChIP-seq data in lymphoblastic and mantle cell lymphoma cell lines",
+	    "highlights": []
+	},
+	{
+	    "company": "Sanofi Pasteur",
+	    "position": "Bioinformatics intern",
+	    "website": "http://www.sanofipasteur.com/",
+	    "startDate": "2016-04",
+	    "endDate": "2016-09",
+	    "summary": "Meta-analysis of gene expression data for biomarker discovery",
+	    "highlights": []
+	}      
+    ],
+    "volunteer":,
+    "awards":,
+    "references": [
+	{
+	    "name": "Available upon request",
+	    "reference": ""
+	}
+    ]
 }

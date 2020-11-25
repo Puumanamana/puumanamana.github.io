@@ -16,30 +16,30 @@ This page is to show evidence of scholarly ability, as required for the ICS [PhD
 ## Publications
 
 ### First author
-- Arisdakessian C, Poirion O, Yunits B, Zhu X, Garmire LX. DeepImpute:
-  an accurate, fast, and scalable deep neural network method to impute
-  single-cell RNA-seq data. Genome biology. 2019 Dec;20(1):1-4.
 - Arisdakessian, C., Cleveland, S.B. and Belcaid,
   M., 2020. MetaFlow|mics: Scalable and Reproducible Nextflow
   Pipelines for the Analysis of Microbiome Marker Data. In Practice
   and Experience in Advanced Research Computing (pp. 120-124).
+- Arisdakessian C, Poirion O, Yunits B, Zhu X, Garmire LX. DeepImpute:
+  an accurate, fast, and scalable deep neural network method to impute
+  single-cell RNA-seq data. Genome biology. 2019 Dec;20(1):1-4.
   
 ### Collaborations
-- Zhu, X., Wolfgruber, T.K., Tasato, A., Arisdakessian, C., Garmire,
-  D.G. and Garmire, L.X., 2017. Granatum: a graphical single-cell
-  RNA-Seq analysis pipeline for genomics scientists. Genome medicine,
-  9(1), pp.1-12.
-- Zhu, X., Yunits, B., Wolfgruber, T., Liu, Y., Huang, Q., Poirion,
-  O., Arisdakessian, C., Zhao, T., Garmire, D. and Garmire,
-  L., 2019. GranatumX: A community engaging and flexible software
-  environment for single-cell analysis. bioRxiv, p.385591.
-- Du, Y., Huang, Q., Arisdakessian, C. and Garmire,
-  L.X., 2020. Evaluation of STAR and Kallisto on Single Cell RNA-Seq
-  Data Alignment. G3: Genes, Genomes, Genetics, 10(5), pp.1775-1783.
 - Jani A., Bushell J., Arisdakessian C., Belcaid M., Boiano D., Brown
   C., Knapp R., 2020. The amphibian microbiome exhibits poor resilience
   following pathogen-induced disturbance  The ISME journal (accepted
   manuscript)
+- Du, Y., Huang, Q., Arisdakessian, C. and Garmire,
+  L.X., 2020. Evaluation of STAR and Kallisto on Single Cell RNA-Seq
+  Data Alignment. G3: Genes, Genomes, Genetics, 10(5), pp.1775-1783.
+- Zhu, X., Yunits, B., Wolfgruber, T., Liu, Y., Huang, Q., Poirion,
+  O., Arisdakessian, C., Zhao, T., Garmire, D. and Garmire,
+  L., 2019. GranatumX: A community engaging and flexible software
+  environment for single-cell analysis. bioRxiv, p.385591.
+- Zhu, X., Wolfgruber, T.K., Tasato, A., Arisdakessian, C., Garmire,
+  D.G. and Garmire, L.X., 2017. Granatum: a graphical single-cell
+  RNA-Seq analysis pipeline for genomics scientists. Genome medicine,
+  9(1), pp.1-12.
 
 ### Submitted manuscripts
 - Arisdakessian C, Nigro O., Steward G., Poisson G., Belcaid
