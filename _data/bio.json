@@ -75,19 +75,79 @@
       "gpa": "3.97",
       "courses": [
       ]
-    }
+    },
+    {
+      "institution": "Ecole Centrale Lyon",
+      "area": "Engineering",
+      "studyType": "MS.c",
+      "startDate": "2013",
+      "endDate": "2016",
+      "gpa":,
+      "courses": [
+      ]
+    },
+    {
+      "institution": "Universite Lyon I",
+      "area": "Bioinformatics",
+      "studyType": "MS.c",
+      "startDate": "2015",
+      "endDate": "2016",
+      "gpa":,
+      "courses": [
+      ]
+    }            
   ],
   "work": [
     {
-      "company": "UH Manoa",
-      "position": "Graduate Research Assistant",
-      "website": "",
-      "startDate": "2018-05",
-      "endDate": "Present",
-      "summary": "Metagenomics analyses",
+      "company": "Sanofi Pasteur",
+      "position": "Bioinformatics intern",
+      "website": "http://www.sanofipasteur.com/",
+      "startDate": "2016-04",
+      "endDate": "2016-09",
+      "summary": "Meta-analysis of gene expression data for biomarker discovery",
       "highlights": [
       ]
-    }
+    },
+    {
+      "company": "Institute for Advance Biosciences",
+      "position": "Research Engineer",
+      "website": "https://iab.univ-grenoble-alpes.fr/",
+      "startDate": "2017-04",
+      "endDate": "2017-08",
+      "summary": "Analysis of ChIP-seq data in lymphoblastic and mantle cell lymphoma cell lines",
+      "highlights": [
+      ]
+    },
+    {
+      "company": "University of Hawai'i cancer center",
+      "position": "Graduate Research Assistant",
+      "website": "https://www.uhcancercenter.org/",
+      "startDate": "2017-08",
+      "endDate": "2018-05",
+      "summary": "Imputation of single cell RNA seq data using deep learning methods.",
+      "highlights": [
+      ]
+    },
+    {
+      "company": "University of Hawai'i at Manoa",
+      "position": "Graduate Research Assistant",
+      "website": "https://datascience.hawaii.edu/",
+      "startDate": "2018-05",
+      "endDate": "2019-05",
+      "summary": "Development of computational pipelines for the analysis of microbiome marker data.",
+      "highlights": [
+      ]
+    },
+    {
+      "company": "University of Hawai'i at Manoa",
+      "position": "Graduate Research Assistant",
+      "website": "https://www.labhuiofrank.com/",
+      "startDate": "2019-05",
+      "endDate": "Present",
+      "summary": "Statistical analysis of bacterial metagenomes",
+      "highlights": [
+      ]
+    }      
   ],
   "volunteer":,
   "awards":,
