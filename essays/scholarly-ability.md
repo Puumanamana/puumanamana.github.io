@@ -36,7 +36,7 @@ This page is to show evidence of scholarly ability, as required for the ICS [PhD
   L.X., 2020. Evaluation of STAR and Kallisto on Single Cell RNA-Seq
   Data Alignment. G3: Genes, Genomes, Genetics, 10(5), pp.1775-1783.
 
-## Under review
+### Under review
 - Arisdakessian C, Nigro O., Steward G., Poisson G., Belcaid
   M. CoCoNet: An Efficient Deep Learning Tool for Viral Metagenome
   Binning (2020)
