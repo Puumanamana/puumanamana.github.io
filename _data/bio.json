@@ -12,7 +12,7 @@
 	"postalCode": "96822",
 	"city": "Honolulu",
 	"countryCode": "USA",
-	"region": "Hawaii"
+	"region": "Hawaiʻi"
     },
     "profiles": [
       {
@@ -68,7 +68,7 @@
     ],
     "education": [
 	{
-	    "institution": "University of Hawaii, Honolulu, HI",
+	    "institution": "University of Hawai'i at Manoa, Honolulu, HI",
 	    "area": "Computer Science",
 	    "studyType": "Ph.D.",
 	    "startDate": "2018-01",
@@ -97,7 +97,7 @@
     ],
     "work": [
 	{
-	    "company": "University of Hawai'i at Manoa",
+	    "company": "University of Hawaiʻi at Mānoa",
 	    "position": "Graduate Research Assistant",
 	    "website": "https://www.labhuiofrank.com/",
 	    "startDate": "2019-05",
@@ -106,19 +106,19 @@
 	    "highlights": []
 	},	
 	{
-	    "company": "University of Hawai'i at Manoa",
+	    "company": "University of Hawaiʻi at Mānoa",
 	    "position": "Graduate Research Assistant",
 	    "website": "https://datascience.hawaii.edu/",
 	    "startDate": "2018-05",
 	    "endDate": "2019-05",
-	    "summary": "Collaboration with data science projects with UH Manoa collaborators",
+	    "summary": "Collaboration with data science projects with UH Mānoa collaborators",
 	    "highlights": [
 		"Development of data science teaching modules",
 		"Development of computational pipelines for the analysis of microbiome marker data"
 	    ]
 	},
 	{
-	    "company": "University of Hawai'i cancer center",
+	    "company": "University of Hawaiʻi cancer center",
 	    "position": "Graduate Research Assistant",
 	    "website": "https://www.uhcancercenter.org/",
 	    "startDate": "2017-08",
@@ -143,7 +143,34 @@
 	    "endDate": "2016-09",
 	    "summary": "Meta-analysis of gene expression data for biomarker discovery",
 	    "highlights": []
-	}      
+	},
+	{
+	    "company": "Scripps Institute of Oceanography",
+	    "position": "Research intern",
+	    "website": "https://sioweb.ucsd.edu/labs/athode",
+	    "startDate": "2015-03",
+	    "endDate": "2015-05",
+	    "summary": "Geolocalization of bowhead whales using a non-linear analysis of their calls",
+	    "highlights": []
+	},
+	{
+	    "company": "ENSTA Bretagne",
+	    "position": "Research intern",
+	    "website": "https://www.ensta-bretagne.fr/en",
+	    "startDate": "2014-10",
+	    "endDate": "2014-12",
+	    "summary": "Geolocalization of bowhead whales using a non-linear analysis of their calls",
+	    "highlights": []
+	},
+	{
+	    "company": "French Alternative Energies and Atomic Energy Commission",
+	    "position": "Research intern",
+	    "website": "https://www.cea.fr/english",
+	    "startDate": "2014-05",
+	    "endDate": "2014-09",
+	    "summary": "Reconstruction of radio telescope array images based on wavelet decomposition techniques",
+	    "highlights": []
+	},	
     ],
     "volunteer":,
     "awards":,

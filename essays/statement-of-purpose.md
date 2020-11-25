@@ -43,8 +43,8 @@ probability theory and computer science to describe or predict
 patterns in data, and biology provides many opportunities to do
 so. Moreover, this field keeps evolving at a very fast pace and the
 flow of new ideas is very stimulating for creative research. My
-involvement in the data science institute in the University of Hawai'i
-at Manoa with Dr. Mahdi Belcaid has helped me strengthen my knowledge
+involvement in the data science institute in the University of Hawaiʻi
+at Mānoa with Dr. Mahdi Belcaid has helped me strengthen my knowledge
 in this field, and my various collaboration with biological
 oceanography labs in the university has provided me valuable
 experience analyzing and curating the data. Already, my current
