@@ -41,7 +41,7 @@ This page is to show evidence of scholarly ability, as required for the ICS [PhD
   following pathogen-induced disturbance  The ISME journal (accepted
   manuscript)
 
-### Submitted manuscript
+### Submitted manuscripts
 - Arisdakessian C, Nigro O., Steward G., Poisson G., Belcaid
   M. 2020. CoCoNet: An Efficient Deep Learning Tool for Viral Metagenome
   Binning
