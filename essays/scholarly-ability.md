@@ -7,8 +7,6 @@ labels:
   - PhD Portfolio
 ---
 
-This page is to show evidence of scholarly ability, as required for the ICS [PhD portfolio](http://www.ics.hawaii.edu/academics/graduate-degree-programs/ph-d-in-ics/#phd-portfolio). This includes a literature and publications:
-
 ## Literature Review (not available yet)
 
 [Using phylogenetic information to understand microbial contribution in microbiome studies](https://puumanamana.github.io/essays/literature-review.pdf)

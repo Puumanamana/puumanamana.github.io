@@ -7,8 +7,6 @@ labels:
   - PhD Portfolio
 ---
 
-This page is for the statement of purpose, as required for the ICS [PhD portfolio](http://www.ics.hawaii.edu/academics/graduate-degree-programs/ph-d-in-ics/#phd-portfolio).
-
 My training in computer science began in high school when I started
 learning C/C++ and PHP. For my undergraduate studies, I specialized in
 Mathematics and Computer Science at Ecole Centrale Lyon Engineering
