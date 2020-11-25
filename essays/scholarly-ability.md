@@ -25,9 +25,10 @@ This page is to show evidence of scholarly ability, as required for the ICS [PhD
   and Experience in Advanced Research Computing (pp. 120-124).
   
 ### Collaborations
-- Zhu X, Wolfgruber TK, Tasato A, Arisdakessian C, Garmire DG, Garmire
-  LX. Granatum: a graphical single-cell RNA-Seq analysis pipeline for
-  genomics scientists. Genome medicine. 2017 Dec;9(1):1-2.
+- Zhu, X., Wolfgruber, T.K., Tasato, A., Arisdakessian, C., Garmire,
+  D.G. and Garmire, L.X., 2017. Granatum: a graphical single-cell
+  RNA-Seq analysis pipeline for genomics scientists. Genome medicine,
+  9(1), pp.1-12.
 - Zhu, X., Yunits, B., Wolfgruber, T., Liu, Y., Huang, Q., Poirion,
   O., Arisdakessian, C., Zhao, T., Garmire, D. and Garmire,
   L., 2019. GranatumX: A community engaging and flexible software
@@ -35,8 +36,15 @@ This page is to show evidence of scholarly ability, as required for the ICS [PhD
 - Du, Y., Huang, Q., Arisdakessian, C. and Garmire,
   L.X., 2020. Evaluation of STAR and Kallisto on Single Cell RNA-Seq
   Data Alignment. G3: Genes, Genomes, Genetics, 10(5), pp.1775-1783.
+- Jani A., Bushell J., Arisdakessian C., Belcaid M., Boiano D., Brown
+  C., Knapp R., 2020. The amphibian microbiome exhibits poor resilience
+  following pathogen-induced disturbance  The ISME journal (accepted
+  manuscript)
 
-### Under review
+### Submitted manuscript
 - Arisdakessian C, Nigro O., Steward G., Poisson G., Belcaid
-  M. CoCoNet: An Efficient Deep Learning Tool for Viral Metagenome
-  Binning (2020)
+  M. 2020. CoCoNet: An Efficient Deep Learning Tool for Viral Metagenome
+  Binning
+- Belcaid M., Arisdakessian C., Kravchenko Y. 2020. Efficient DNA
+  Sequence Partitioning Using Probabilistic Subsets and Hypergraphs
+  
