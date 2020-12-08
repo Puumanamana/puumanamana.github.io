@@ -7,17 +7,31 @@ labels:
   - PhD Portfolio
 ---
 
-My training in computer science began in high school when I started
-learning C/C++ and PHP. For my undergraduate studies, I specialized in
-Mathematics and Computer Science at Ecole Centrale Lyon Engineering
-School. During this time, I learned theoretical aspects of programming
-and began using computer programming for solving problems in signal
-processing, biological systems modeling, computer graphics, and
-bioinformatics. 
+From a young age, I enjoyed learning about mathematics and foreign
+languages, which I explored in my high school coursework. Computer
+science being a mix of mathematics and languages, naturally appealed
+to me. In pursuit of this interest, I began teaching myself C/C++ and PHP
+through online resources. My interest grew even more when I used Linux
+for the first time, and was able to enhance my interactions with
+computer systems. These were enriching experiences since it was my
+first time investing so much efforts in science on my own volition. 
+Following my graduation from high school, I decided to work toward an
+engineering degree.
 
-After my second year of engineering school, I worked
-in the Astrophysics Department of the French Alternative Energies and
-Atomic Energy Commission. I used compressed sensing algorithms to
+The first part of my studies involved acquiring a strong background in
+mathematics and physics. I chose to specialize in computer science,
+and was introduced to the CAML language, which provided
+me my first theoretical aspects in this field. Later, I was accepted at
+the Ecole Centrale Lyon Engineering School, where I learned to apply
+my knowledge to problem solving in engineering, and more particularly
+in signal processing, biological systems modeling, computer graphics,
+and bioinformatics.
+
+In my third year of engineering school, I decided to take a year off
+to validate my career objectives by doing research internships in
+various laboratories. My first internship was in the Astrophysics
+Department of the French Alternative Energies and Atomic Energy
+Commission where I used wavelet decomposition algorithms to
 denoise telescope images. Working on this project was really impactful
 because it was my first experience doing research. I found that I
 really enjoyed the autonomy that I was given in my work and the
@@ -42,9 +56,9 @@ patterns in data, and biology provides many opportunities to do
 so. Moreover, this field keeps evolving at a very fast pace and the
 flow of new ideas is very stimulating for creative research. My
 involvement in the data science institute in the University of Hawaiʻi
-at Mānoa with Dr. Mahdi Belcaid has helped me strengthen my knowledge
+at Mānoa with Dr. Mahdi Belcaid helps me strengthen my knowledge
 in this field, and my various collaboration with biological
-oceanography labs in the university has provided me valuable
+oceanography labs in the university provides me valuable
 experience analyzing and curating the data. Already, my current
 research tries to makes use of deep learning models to cluster species
-in metagenomic samples. 
+in metagenomic samples.
