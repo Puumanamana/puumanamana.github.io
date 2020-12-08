@@ -39,10 +39,12 @@ labels:
   RNA-Seq analysis pipeline for genomics scientists. Genome medicine,
   9(1), pp.1-12.
 
-### Submitted manuscripts
+### Accepted manuscripts
+- Belcaid M., Arisdakessian C., Kravchenko Y. 2020. Efficient DNA
+  Sequence Partitioning Using Probabilistic Subsets and Hypergraphs
+
+### Manuscripts in review
 - Arisdakessian C, Nigro O., Steward G., Poisson G., Belcaid
   M. 2020. CoCoNet: An Efficient Deep Learning Tool for Viral Metagenome
   Binning
-- Belcaid M., Arisdakessian C., Kravchenko Y. 2020. Efficient DNA
-  Sequence Partitioning Using Probabilistic Subsets and Hypergraphs
   
