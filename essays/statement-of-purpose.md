@@ -8,14 +8,14 @@ labels:
 ---
 
 From a young age, I enjoyed learning about mathematics and foreign
-languages, which I explored in my high school coursework. Computer
-science being a mix of mathematics and languages, naturally appealed
-to me. In pursuit of this interest, I began teaching myself C/C++ and PHP
+languages, which I explored in my high school coursework. As a mix of
+mathematics and languages, computer science naturally appealed to
+me. In pursuit of this interest, I began teaching myself C/C++ and PHP
 through online resources. My interest grew even more when I used Linux
 for the first time, and was able to enhance my interactions with
 computer systems. These were enriching experiences since it was my
 first time investing so much efforts in science on my own volition. 
-Following my graduation from high school, I decided to work toward an
+Following my graduation from high school, I decided to work towards an
 engineering degree.
 
 The first part of my studies involved acquiring a strong background in
@@ -43,10 +43,10 @@ Avancées de Bretagne (Brest, France) and Scripps Institute of
 Oceanography (San Diego, California, USA). Our goal was to localize
 whales using a time-frequency analysis of their calls. I really
 enjoyed working on this project because of the interdisciplinary
-approaches and heterogenous background of my mentors. In addition, my
+approaches and heterogenous background of my mentors. Finally, my
 end-of-study internship in Sanofi Pasteur (Marcy l’étoile, France)
-gave me the opportunity to work in a the pharmaceutical industry,
-where I learned how to use machine learning methods to predict a
+gave me the opportunity to work in the pharmaceutical industry,
+where I learned to use machine learning methods to predict a
 vaccine response.
 
 Many aspects of computer science are appealing to me, and more
@@ -62,3 +62,9 @@ oceanography labs in the university provides me valuable
 experience analyzing and curating the data. Already, my current
 research tries to makes use of deep learning models to cluster species
 in metagenomic samples.
+
+In the future, I want my research to support other scientific fields
+through the development of data analysis tools and machine learning
+approaches. Since I also enjoy automating and streamlining workflows,
+I can also envision myself working in industry.
+
