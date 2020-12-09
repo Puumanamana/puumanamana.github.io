@@ -2,12 +2,12 @@
 layout: essay
 type: essay
 title: Evidence of Scholarly Ability
-date: 2020-12-01
+date: 2020-12-08
 labels:
   - PhD Portfolio
 ---
 
-## Literature Review (not available yet)
+## Literature Review
 
 [Improving interpretation of microbiome studies by incorporating phylogenetic information](https://puumanamana.github.io/essays/literature-review.pdf)
 
