@@ -9,7 +9,7 @@ labels:
 
 ## Literature Review (not available yet)
 
-[Using phylogenetic information to understand microbial contribution in microbiome studies](https://puumanamana.github.io/essays/literature-review.pdf)
+[Improving interpretation of microbiome studies by incorporating phylogenetic information](https://puumanamana.github.io/essays/literature-review.pdf)
 
 ## Publications
 
