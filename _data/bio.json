@@ -79,7 +79,7 @@
 	{
 	    "institution": "Université Claude Bernard Lyon 1",
 	    "area": "Bioinformatics",
-	    "studyType": "MS.c",
+	    "studyType": "MSc.",
 	    "startDate": "2015",
 	    "endDate": "2016",
 	    "gpa":,
@@ -88,7 +88,7 @@
 	{
 	    "institution": "École Centrale de Lyon",
 	    "area": "Engineering",
-	    "studyType": "MS.c",
+	    "studyType": "MSc.",
 	    "startDate": "2013",
 	    "endDate": "2016",
 	    "gpa":,
@@ -97,7 +97,7 @@
 	{
 	    "institution": "Lycée Champollion",
 	    "area": "Engineering",
-	    "studyType": "BS.c",
+	    "studyType": "BSc.",
 	    "startDate": "2009",
 	    "endDate": "2012",
 	    "gpa":,
